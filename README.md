@@ -3,10 +3,14 @@ Model, pipeline, and sample data for Jiang et al 2024
 
 Most of primary steps in our AI pipeline is provided in 'pipeline.ipynb'
 
-To try our model, please gather following items into a same folder.
+To try our model, please gather following items into a same folder.  
+
 (1)python script 'prediction_with_sample_data.py', 
+
 (2)model 'Jiang_et_al_RFmodel_fitted.pkl',
+
 (3)test data 'sample_data_hcc.dat' or 'sample_data_healthy.dat' (or your own data) 
+
 
 Then change current work dictionary to this folder using "cd [path]" in your command-line.
 Finally run this script using command "python prediction_with_sample_data.py"
