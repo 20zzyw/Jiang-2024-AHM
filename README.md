@@ -16,13 +16,24 @@ Then change current work dictionary to this folder using "cd [path]" in your com
 Finally run this script using command "python prediction_with_sample_data.py"
 
 You should see output like this:
+
 Predicted p: [[0.34473914 0.65526086]]
+
 Predicted class: [1]
+
 Predicted p: [[0.62553872 0.37446128]]
+
 Predicted class: [0]
+
 Predicted p: [[0.09459047 0.90540953]]
+
 Predicted class: [1]
+
 Predicted p: [[0.08367491 0.91632509]]
+
 Predicted class: [1]
+
 Predicted p: [[0.35291522 0.64708478]]
+
 Predicted class: [1]
+
